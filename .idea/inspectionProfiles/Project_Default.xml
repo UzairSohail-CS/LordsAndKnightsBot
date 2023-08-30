@@ -1,0 +1,23 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="cv2" />
+          <option value="keras.layers.normalization.*" />
+          <option value="keras.optimizers.*" />
+          <option value="tensorflow" />
+          <option value="google.colab" />
+          <option value="asssignmentt.mysql" />
+          <option value="flexibleproject2.set_mines" />
+          <option value="flexibleproject2.set_values" />
+          <option value="flexibleproject2.check_over" />
+          <option value="flexibleproject.print_mines_layout" />
+          <option value="flexibleproject.NUM_MINES" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
